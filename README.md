@@ -54,7 +54,7 @@ A modern, responsive website for Burnout Gym featuring a sleek design, interacti
 
 ## 💻 Open in browser
    ```bash
-   git clone https://github.com/yourusername/burnout-gym.git
+   https://burnoutwithhitesh.netlify.app
    ```
  
 ## 📋 Requirements
