@@ -1,7 +1,5 @@
 # BURNOUT - Modern Gym Website
 
-![Burnout Gym](images/gym-background.jpg)
-
 A modern, responsive website for Burnout Gym featuring a sleek design, interactive elements, and smooth animations. Built with HTML, CSS, and JavaScript.
 
 ## 🌟 Features
@@ -54,22 +52,11 @@ A modern, responsive website for Burnout Gym featuring a sleek design, interacti
 - Font Awesome Icons
 - Google Fonts
 
-## 💻 Setup and Installation
-
-1. **Clone the repository**
+## 💻 Open in browser
    ```bash
    git clone https://github.com/yourusername/burnout-gym.git
    ```
-
-2. **Navigate to the project directory**
-   ```bash
-   cd burnout-gym
-   ```
-
-3. **Open in browser**
-   - Open `index.html` in your preferred browser
-   - For development, use a local server (like Live Server in VS Code)
-
+ 
 ## 📋 Requirements
 
 - Modern web browser (Chrome, Firefox, Safari, Edge)
