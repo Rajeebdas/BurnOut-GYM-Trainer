@@ -1,7 +1,5 @@
 # BURNOUT - Modern Gym Website
 
-![Burnout Gym](images/gym-background.jpg)
-
 A modern, responsive website for Burnout Gym featuring a sleek design, interactive elements, and smooth animations. Built with HTML, CSS, and JavaScript.
 
 ## 🌟 Features
@@ -137,7 +135,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For support, email support@burnoutgym.com or create an issue in this repository.
+For support, email 1drajeeb119@gmail.com or create an issue in this repository.
 
 ---
-Made with ❤️ by [Your Name] 
+Made with ❤️ by Rajeeb 
